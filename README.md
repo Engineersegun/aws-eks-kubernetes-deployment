@@ -5,10 +5,12 @@ AWS EKS Kubernetes Deployment
 
 
 thub.com/user-attachments/assets/f8d4470b-0655-4f5f-acb3-1bfd80808989" />
+<img width="1366" height="768" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/61f5f2d3-bb11-4a71-8b27-8020526fdfa4" />
 
 Architected a high-availability EKS cluster with automated scaling and AWS Load Balancer integration.
-This project demonstrates a produc<img width="1366" height="768" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/61f5f2d3-bb11-4a71-8b27-8020526fdfa4" />
-tion-grade cloud-native deployment. It covers the full lifecycle of an application—from local containerization with Docker to automated orchestration on Amazon EKS, leveraging Amazon ECR for secure image management and Elastic Load Balancing (ELB) for public traffic distribution.
+This project demonstrates a production
+
+grade cloud-native deployment. It covers the full lifecycle of an application—from local containerization with Docker to automated orchestration on Amazon EKS, leveraging Amazon ECR for secure image management and Elastic Load Balancing (ELB) for public traffic distribution.
 
 
 🚀 Key Features
