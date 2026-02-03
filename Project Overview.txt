@@ -1,0 +1,22 @@
+Tech Stack: 
+Docker, Amazon Web Services (AWS ECR), Nginx, Bash/Terminal
+📋 Project Overview
+Developed a streamlined workflow to containerize a web application and deploy it to a secure, cloud-based private registry. This project demonstrates the ability to bridge the gap between local development and cloud infrastructure, ensuring that applications are portable, scalable, and ready for production environments.
+
+🚀 Key Achievements
+Containerized a Web Server: Created a custom Dockerfile to build an Nginx-based image, optimizing the delivery of static web content.
+
+Cloud Infrastructure Setup: Configured and managed an Amazon Elastic Container Registry (ECR) to host private Docker images.
+
+Secure Authentication: Implemented secure CLI-based authentication between a local development environment and AWS using IAM credentials and the AWS CLI.
+
+Image Versioning: Established a tagging convention to manage image versions and ensure reliable deployments.
+
+🛠️ Technical Workflow
+Build: Developed the Dockerfile and configured environment-specific assets.
+
+Verify: Conducted local testing by mapping ports and running containers in detached mode.
+
+Authenticate: Utilized get-login-password via AWS CLI to establish a secure tunnel to the ECR registry.
+
+Push: Tagged and migrated the local image to the cloud using the Docker CLI.
